@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain_experimental
+langchain-openai
+openai
+streamlit
+tiktoken
+nest_asyncio
+python-dotenv
+sentence_transformers
+pinecone-client
+lxml
+bs4
+torch
+
+# -e .
